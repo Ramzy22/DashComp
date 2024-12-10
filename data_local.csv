@@ -1,0 +1,8 @@
+,stop_id,stop_name,stop_lat,stop_lon,Category
+0,Not Found,0,40.7128,-74.006,Subways
+1,Not Found,0,40.7128,-74.006,Buses
+2,Not Found,0,40.7128,-74.006,LIRR
+3,Not Found,0,40.7128,-74.006,Metro-North
+4,Not Found,0,40.7128,-74.006,Staten Island Railway
+5,Not Found,0,40.7128,-74.006,Bridges and Tunnels
+6,Not Found,0,40.7128,-74.006,Access-A-Ride
